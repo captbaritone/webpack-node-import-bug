@@ -5,5 +5,5 @@ module.exports = {
   },
   entry: {
     webamp: ["./index.js"],
-  },
+  }
 };
